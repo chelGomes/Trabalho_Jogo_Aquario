@@ -32,3 +32,4 @@ pontuação do jogo será o número de iterações ocorridas do início ao térm
 jogo termina quando não houver mais peixes do tipo B ou o jogador encerrar o jogo. Com
 os parâmetros corretos o jogo pode nunca acabar, resultando em um ecossistema
 sustentável.
+---
